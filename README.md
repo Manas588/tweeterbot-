@@ -1,2 +1,2 @@
 # tweeterbot-
-A simple Tweeter Bot,
+A simple Twitter Bot,
